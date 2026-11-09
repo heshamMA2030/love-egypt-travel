@@ -1,0 +1,6 @@
+{
+  "name": "Love Egypt - Premier Sharm El Sheikh Excursions & Luxury Travel",
+  "description": "Experience the magic of the Red Sea with Love Egypt. Premier Sharm El Sheikh diving expeditions, Ras Mohammed boat charters, desert quad safaris, Mount Sinai treks, and our 24/7 AI travel concierge Ramses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
